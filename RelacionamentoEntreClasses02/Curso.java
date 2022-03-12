@@ -6,8 +6,8 @@ public class Curso {
 	
 	private String nome;
 	private String horario;
-	private Professor professor;
-	private Aluno[] alunos;
+	private Professor professor; //Relacionamento tem um
+	private Aluno[] alunos; //Relacionamento tem muitos
 	
 	
 	

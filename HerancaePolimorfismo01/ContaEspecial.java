@@ -1,6 +1,8 @@
-package HerancaePolimorfismo;
+package HerancaePolimorfismo01;
 
 public class ContaEspecial extends ContaBancaria{
+	
+	//https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-36-a-43
 	
 	private Double limite;
 
